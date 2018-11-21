@@ -1,6 +1,6 @@
 # Recipes
 
-## Lily's
+## Lily's Canteen
 
 ## Today's treat
 
