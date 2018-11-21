@@ -5,6 +5,7 @@
 ## Today's treat
 
 ### test git comparison
+### test git merge
 
 still a test!
 
